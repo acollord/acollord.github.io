@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: Bikes
+title: "Bikes"
 ---
 <section class="content">
 

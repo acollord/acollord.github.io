@@ -4,16 +4,12 @@ title: "About"
 ---
 
 <section class="content">
-  <h1>Andrew Collord</h1>
 
+# Andrew Collord
 
-<h2> About Me: </h2>
-<p>
-A WORK IN PROGRESS! Check back later for updates
-<br>
-<br>
+## About Me:
 
-I am from here:
+A WORK IN PROGRESS!
 
 <table>
 	<tr>
@@ -30,15 +26,11 @@ I am from here:
 	</tr>
 </table>
 
-<br>
-<h2>In my free time I like to:</h2>
-<br>
-
-<h3>Travel. <a href= "/Travel.html">This is where I've been </a></h3>
-
-<h3>Ride and refurbish <a href= "/Bikes.html">old bikes</a></h3>
-
-<h3>Go <a href= "/Backpacking.html">backpacking and hiking </a></h3>
+## In my free time I like to:
 
 
-</section>
+* Travel <a href= "/Travel.html" style = "color: #0000A0">This is where I've been </a>
+
+* Ride and refurbish <a href= "/Bikes.html" style = "color: #0000A0">old bikes</a>
+
+* Go <a href= "/Backpacking.html" style = "color: #0000A0">backpacking and hiking </a>
