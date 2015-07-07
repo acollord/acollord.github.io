@@ -2,6 +2,8 @@
 layout: layout
 title: Bikes
 ---
+<section class="content">
+
 # Bicycles
 
 ## These are some of the bikes I've owned:
@@ -26,3 +28,5 @@ The newest (used) bike I've ever owned. Its a great, well thought out touring bi
 
 * ### 1948 Schwinn Le Tour Luxe
 Currently my main bike. After owning it for a year, I decided to do a complete rebuild on it. I stripped it down to the bare frame, frame-saver'd it, replaced the brake levers, freewheel, cranks, bottom bracket, repacked the wheels, replaced the axles (one was bent!), ran new cables and housing...you name it! Now why won't the brakes stop squeeling?!
+
+</section>
